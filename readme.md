@@ -2,6 +2,6 @@
 
 balance_checker - проверяет баланс usdt(замени на *) в 4-х различных сетях: Arbitrum, Optimism, Polygon, Avalanche.
 
-debank-checker - используя selenium, открывает сайт debank, откуда получает информацию о всех активах указанного кошелька.
+debank_checker - используя selenium, открывает сайт debank, откуда получает информацию о всех активах указанного кошелька.
 
 wallet_create - малыш, экономящий пользователю ~1минуту на создании кошелька metamask.
